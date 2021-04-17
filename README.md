@@ -2,5 +2,5 @@
 Repositorio para el curso de Introducción a Ciencia de Datos con Python del NINE Hub CR
 
 ## Requisitos para este curso
-- Conocimiento básico sobre Python.
+- Conocimiento medio sobre Python.
 - Conocimiento utilizando Jupyter Notebooks.
