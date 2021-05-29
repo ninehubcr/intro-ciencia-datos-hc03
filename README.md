@@ -10,3 +10,14 @@ Repositorio para el curso de Introducción a Ciencia de Datos con Python del NIN
 ## Requisitos para este curso
 - Conocimiento medio sobre Python.
 - Conocimiento utilizando Jupyter Notebooks.
+
+## He terminado el curso ¿dónde voy ahora?
+- [Data Science Roadmap](https://www.freecodecamp.org/news/data-science-learning-roadmap/)
+- [Visualización de datos con PyViz](https://pyviz.org/tutorials/index.html)
+- [Learn SQL](https://www.w3schools.com/sql/)
+- [Univariate and Multivariate Analysis with Python](https://python-for-multivariate-analysis.readthedocs.io/)
+- [Machine Learning with Python](https://jakevdp.github.io/PythonDataScienceHandbook/05.00-machine-learning.html)
+
+### Otros
+- [Astrostatistics datasets and tutorials](https://astrostatistics.psu.edu/datasets/index.html)
+- [Data Driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy)
